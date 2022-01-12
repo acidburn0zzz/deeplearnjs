@@ -31,7 +31,7 @@
     "karma-firefox-launcher": "~1.0.1",
     "karma-jasmine": "~1.1.0",
     "karma-typescript": "~3.0.8",
-    "markdown-it": "^8.4.0",
+    "markdown-it": "^12.3.2",
     "opn": "~5.1.0",
     "shelljs": "~0.7.8",
     "ts-node": "~4.1.0",
